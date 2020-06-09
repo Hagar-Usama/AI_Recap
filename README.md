@@ -2,6 +2,9 @@
 
 ![mind_map][1]
 
+---
+
+
 ![mind_map_expanded][2]
 
 
